@@ -7,11 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome Mukesh
-	<form action="add">
-		A:<input type="text" name="num1"><br>
-		B:<input type="text" name="num2"><br>
-		<input type="Submit">
-	</form>
+${result}
 </body>
 </html>
